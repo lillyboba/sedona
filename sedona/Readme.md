@@ -1,4 +1,4 @@
-# Личный проект «{{projectTitle}}»
+# Личный проект «Седона»
 
 * Студент: [Лилия Борисова](https://htmlacademy.ru/profile/lilly_borisova).
 * Наставник: `Неизвестно`.
