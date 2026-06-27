@@ -2,7 +2,7 @@
 
 * Студент: [Лилия Борисова](https://htmlacademy.ru/profile/lilly_borisova).
 * Наставник: `Неизвестно`.
-* Сайт: [Мой сайт] (https://lillyboba.github.io/sedona/)
+* Сайт: [Мой сайт](https://lillyboba.github.io/sedona/).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
