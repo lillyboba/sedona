@@ -1,0 +1,6 @@
+body
+.hero {
+  background-image: url("../image/index-background.jpg");
+  width: 1200;
+  height: 485;
+}
